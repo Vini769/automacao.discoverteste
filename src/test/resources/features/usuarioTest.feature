@@ -2,10 +2,7 @@
 Funcionalidade: Validar métodos API
 
   @usuarioTest
-  Esquema do Cenário: Validar Fluxo
-
-    Dado UmAdministrador
-
-    Quando SolicitarListaDeUsuarios
-
-    Então ObtenhoResultadosDasValidacoes
+  Cenário: Validar Fluxo
+    Dado que seja um administrador e selecionar um usuario
+    Quando solicitar lista de usuarios
+    Então obtenho resultado das validacoes
