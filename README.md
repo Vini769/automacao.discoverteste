@@ -8,6 +8,6 @@ O repositório consiste em um pequeno cenário de testes para validação dos m�
 
 ### O que utilizar para o teste
 
-Para facilitar o trabalho foi adicionado as seguintes dependências:io.RestAssured,Cucumber-java,Cucumber-core,Cucumber-junit,Commons-lang3,serenity-junit,serenity-core,serenity-rest-assured. Usando a ferramenta IDEA itellij para a realização do testes. lembrando que os testes são todos automação para as funcionalidades da API.
+Para facilitar o trabalho foi adicionado as seguintes dependências:io.RestAssured,Cucumber-java,Cucumber-core,Cucumber-junit,Commons-lang3,serenity-junit,serenity-core,serenity-rest-assured. Usando a ferramenta **IDEA intelliJ** para a realização do testes. lembrando que os testes são todos automação para as funcionalidades da API.
 
 **Dicas**: faça um fork deste projeto, clone o mesmo com o git em sua máquina, faça suas alterações e suba no seus repositório github;
